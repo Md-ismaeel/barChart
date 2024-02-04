@@ -28,7 +28,6 @@ new Chart(myChart, {
           "rgb(153, 102, 255)",
           "rgb(201, 203, 207)",
         ],
-
         borderWidth: 1,
       },
     ],
